@@ -1,0 +1,23 @@
+{
+  "baseUrl": "https://ccc.eu.ro/",
+  "credentials": {
+    "username": "somacescuisabela@gmail.com",
+    "password": "Miro@10Isa"
+  },
+  "testData": {
+    "user": {
+      "firstName": "Valeria",
+      "lastName": "Somacescu",
+      "email": "somacescuisabela@gmail.com"
+    },
+    "product": {
+      "name": "Încălțăminte sport Reebok DMX COMFORT + 100201512 CREM",
+      "category": "Pantofi sport",
+      "price": 399.99
+    }
+  },
+  "timeouts": {
+    "implicitWait": 10,
+    "pageLoadTimeout": 30
+  }
+}
